@@ -19,7 +19,7 @@ webdriver-manager update
 
 ## Executando os testes
 
-Depois que tiver instalado os pré requisitos, executee os comandos abaixo:
+Depois que tiver instalado os pré requisitos, execute os comandos abaixo:
 
 Para iniciar o servidor execute:
 
