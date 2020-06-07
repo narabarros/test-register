@@ -27,12 +27,12 @@ Para iniciar o servidor execute:
 webdriver-manager start
 ```
 Para escolher a porta que será executado o servidor, execute:
-
+```
 webdriver-manager start --seleniumPort {port}
-
+```
 Para iniciar os testes, execute:
 ```
-protractor config/conf.js
+protractor conf.js
 ```
 
 ### Objetivo do teste
